@@ -56,12 +56,12 @@ nav {
     margin-top: 2.5rem;
   }
 
-  .nav-list:hover{
+  /*.nav-list:hover{
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 rgb(37, 37, 37);
     transition: transform 150ms;
     transform: scale(1.1);
-  }
+  }*/
 
 
   main {
