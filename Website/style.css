@@ -46,14 +46,14 @@ nav {
     gap: 1rem;
     list-style: none;
     background-color: darkslategrey;
-    width: 300px;
+    width: 400px;
     height: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 15px;
-    /*font-weight: bolder;
-    margin-top: 2.5rem;*/
+    font-weight: bolder;
+    margin-top: 2.5rem;
   }
 
   /*.nav-list:hover{
